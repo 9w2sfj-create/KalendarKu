@@ -1,0 +1,1184 @@
+{
+  "schema": 1,
+  "version": "2026.09.10-2",
+  "publishedAt": "2026-09-10T08:01:17.088Z",
+  "years": {
+    "2026": {
+      "publicHolidays": [
+        {
+          "id": "newyear",
+          "md": "01-01",
+          "nameMs": "Tahun Baru",
+          "nameEn": "New Year’s Day",
+          "states": [
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "category": "public",
+          "date": "2026-01-01",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "labour",
+          "md": "05-01",
+          "nameMs": "Hari Pekerja",
+          "nameEn": "Labour Day",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-05-01",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "national",
+          "md": "08-31",
+          "nameMs": "Hari Kebangsaan",
+          "nameEn": "National Day",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-08-31",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "malaysia",
+          "md": "09-16",
+          "nameMs": "Hari Malaysia",
+          "nameEn": "Malaysia Day",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-09-16",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "christmas",
+          "md": "12-25",
+          "nameMs": "Krismas",
+          "nameEn": "Christmas Day",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-12-25",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "nsn",
+          "md": "01-14",
+          "nameMs": "Hari Keputeraan YDPB Negeri Sembilan",
+          "nameEn": "Birthday of the Yamtuan Besar",
+          "states": [
+            "NSN"
+          ],
+          "category": "public",
+          "date": "2026-01-14",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "territory",
+          "md": "02-01",
+          "nameMs": "Hari Wilayah Persekutuan",
+          "nameEn": "Federal Territory Day",
+          "states": [
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "category": "public",
+          "date": "2026-02-01",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "melaka",
+          "md": "02-20",
+          "nameMs": "Hari Pengisytiharan Tarikh Kemerdekaan",
+          "nameEn": "Declaration of Independence Date",
+          "states": [
+            "MLK"
+          ],
+          "category": "public",
+          "date": "2026-02-20",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "trg-install",
+          "md": "03-04",
+          "nameMs": "Hari Pertabalan Sultan Terengganu",
+          "nameEn": "Sultan of Terengganu’s Installation",
+          "states": [
+            "TRG"
+          ],
+          "category": "public",
+          "date": "2026-03-04",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "jhr",
+          "md": "03-23",
+          "nameMs": "Hari Keputeraan Sultan Johor",
+          "nameEn": "Sultan of Johor’s Birthday",
+          "states": [
+            "JHR"
+          ],
+          "category": "public",
+          "date": "2026-03-23",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "sbh",
+          "md": "03-30",
+          "nameMs": "Hari Jadi Yang di-Pertua Negeri Sabah",
+          "nameEn": "Sabah Governor’s Birthday",
+          "states": [
+            "SBH"
+          ],
+          "category": "public",
+          "date": "2026-03-30",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "trg",
+          "md": "04-26",
+          "nameMs": "Hari Keputeraan Sultan Terengganu",
+          "nameEn": "Sultan of Terengganu’s Birthday",
+          "states": [
+            "TRG"
+          ],
+          "category": "public",
+          "date": "2026-04-26",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "pls",
+          "md": "05-17",
+          "nameMs": "Hari Keputeraan Raja Perlis",
+          "nameEn": "Raja of Perlis’s Birthday",
+          "states": [
+            "PLS"
+          ],
+          "category": "public",
+          "date": "2026-05-17",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "phg-hol",
+          "md": "05-22",
+          "nameMs": "Hari Hol Sultan Ahmad Shah",
+          "nameEn": "Hari Hol of Sultan Ahmad Shah",
+          "states": [
+            "PHG"
+          ],
+          "category": "public",
+          "date": "2026-05-22",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "kaamatan1",
+          "md": "05-30",
+          "nameMs": "Pesta Kaamatan",
+          "nameEn": "Harvest Festival",
+          "states": [
+            "SBH",
+            "LBN"
+          ],
+          "category": "public",
+          "date": "2026-05-30",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "kaamatan2",
+          "md": "05-31",
+          "nameMs": "Pesta Kaamatan (Hari Kedua)",
+          "nameEn": "Harvest Festival (Day 2)",
+          "states": [
+            "SBH",
+            "LBN"
+          ],
+          "category": "public",
+          "date": "2026-05-31",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "gawai1",
+          "md": "06-01",
+          "nameMs": "Hari Gawai Dayak",
+          "nameEn": "Gawai Dayak",
+          "states": [
+            "SWK"
+          ],
+          "category": "public",
+          "date": "2026-06-01",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "gawai2",
+          "md": "06-02",
+          "nameMs": "Hari Gawai Dayak (Hari Kedua)",
+          "nameEn": "Gawai Dayak (Day 2)",
+          "states": [
+            "SWK"
+          ],
+          "category": "public",
+          "date": "2026-06-02",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "heritage",
+          "md": "07-07",
+          "nameMs": "Hari Warisan Dunia George Town",
+          "nameEn": "George Town World Heritage Day",
+          "states": [
+            "PNG"
+          ],
+          "category": "public",
+          "date": "2026-07-07",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "sarawak",
+          "md": "07-22",
+          "nameMs": "Hari Sarawak",
+          "nameEn": "Sarawak Day",
+          "states": [
+            "SWK"
+          ],
+          "category": "public",
+          "date": "2026-07-22",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "phg",
+          "md": "07-31",
+          "nameMs": "Hari Keputeraan Sultan Pahang",
+          "nameEn": "Sultan of Pahang’s Birthday",
+          "states": [
+            "PHG"
+          ],
+          "category": "public",
+          "date": "2026-07-31",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "mlk",
+          "md": "08-24",
+          "nameMs": "Hari Jadi Yang di-Pertua Negeri Melaka",
+          "nameEn": "Melaka Governor’s Birthday",
+          "states": [
+            "MLK"
+          ],
+          "category": "public",
+          "date": "2026-08-24",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "ktn1",
+          "md": "09-29",
+          "nameMs": "Hari Keputeraan Sultan Kelantan",
+          "nameEn": "Sultan of Kelantan’s Birthday",
+          "states": [
+            "KTN"
+          ],
+          "category": "public",
+          "date": "2026-09-29",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "ktn2",
+          "md": "09-30",
+          "nameMs": "Hari Keputeraan Sultan Kelantan (Hari Kedua)",
+          "nameEn": "Sultan of Kelantan’s Birthday (Day 2)",
+          "states": [
+            "KTN"
+          ],
+          "category": "public",
+          "date": "2026-09-30",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "sgr",
+          "md": "12-11",
+          "nameMs": "Hari Keputeraan Sultan Selangor",
+          "nameEn": "Sultan of Selangor’s Birthday",
+          "states": [
+            "SGR"
+          ],
+          "category": "public",
+          "date": "2026-12-11",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "eve",
+          "md": "12-24",
+          "nameMs": "Malam Krismas",
+          "nameEn": "Christmas Eve",
+          "states": [
+            "SBH"
+          ],
+          "category": "public",
+          "date": "2026-12-24",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "cny1",
+          "md": "02-17",
+          "nameMs": "Tahun Baru Cina",
+          "nameEn": "Chinese New Year",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-02-17",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "cny2",
+          "md": "02-18",
+          "nameMs": "Tahun Baru Cina (Hari Kedua)",
+          "nameEn": "Chinese New Year (Day 2)",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-02-18",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "wesak",
+          "md": "05-31",
+          "nameMs": "Hari Wesak",
+          "nameEn": "Wesak Day",
+          "states": [
+            "ALL"
+          ],
+          "category": "public",
+          "date": "2026-05-31",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "deepavali",
+          "md": "11-08",
+          "nameMs": "Deepavali",
+          "nameEn": "Deepavali",
+          "states": [
+            "JHR",
+            "KDH",
+            "KTN",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SGR",
+            "TRG",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "category": "public",
+          "date": "2026-11-08",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "thaipusam",
+          "md": "02-01",
+          "nameMs": "Thaipusam",
+          "nameEn": "Thaipusam",
+          "states": [
+            "JHR",
+            "NSN",
+            "PRK",
+            "PNG",
+            "SGR",
+            "KUL",
+            "PJY"
+          ],
+          "category": "public",
+          "date": "2026-02-01",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "goodfriday",
+          "md": "04-03",
+          "nameMs": "Good Friday",
+          "nameEn": "Good Friday",
+          "states": [
+            "SBH",
+            "SWK"
+          ],
+          "category": "public",
+          "date": "2026-04-03",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "fitri3",
+          "md": "03-23",
+          "nameMs": "Hari Raya Aidilfitri (Hari Ketiga)",
+          "nameEn": "Eid al-Fitr (Day 3)",
+          "states": [
+            "MLK"
+          ],
+          "category": "public",
+          "date": "2026-03-23",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "israk",
+          "month": 7,
+          "day": 27,
+          "nameMs": "Israk dan Mikraj",
+          "nameEn": "Isra and Mi’raj",
+          "states": [
+            "KDH",
+            "NSN",
+            "PLS",
+            "TRG"
+          ],
+          "md": "01-17",
+          "date": "2026-01-17",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "ramadan",
+          "month": 9,
+          "day": 1,
+          "nameMs": "Awal Ramadan",
+          "nameEn": "First Day of Ramadan",
+          "states": [
+            "JHR",
+            "KDH"
+          ],
+          "md": "02-19",
+          "date": "2026-02-19",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "nuzul",
+          "month": 9,
+          "day": 17,
+          "nameMs": "Nuzul al-Quran",
+          "nameEn": "Nuzul al-Quran",
+          "states": [
+            "KTN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SGR",
+            "TRG",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "md": "03-07",
+          "date": "2026-03-07",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "fitri1",
+          "month": 10,
+          "day": 1,
+          "nameMs": "Hari Raya Aidilfitri",
+          "nameEn": "Eid al-Fitr",
+          "states": [
+            "ALL"
+          ],
+          "md": "03-21",
+          "date": "2026-03-21",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "fitri2",
+          "month": 10,
+          "day": 2,
+          "nameMs": "Hari Raya Aidilfitri (Hari Kedua)",
+          "nameEn": "Eid al-Fitr (Day 2)",
+          "states": [
+            "ALL"
+          ],
+          "md": "03-22",
+          "date": "2026-03-22",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "arafah",
+          "month": 12,
+          "day": 9,
+          "nameMs": "Hari Arafah",
+          "nameEn": "Arafat Day",
+          "states": [
+            "KTN",
+            "TRG"
+          ],
+          "md": "05-26",
+          "date": "2026-05-26",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "adha1",
+          "month": 12,
+          "day": 10,
+          "nameMs": "Hari Raya Aidiladha",
+          "nameEn": "Eid al-Adha",
+          "states": [
+            "ALL"
+          ],
+          "md": "05-27",
+          "date": "2026-05-27",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "adha2",
+          "month": 12,
+          "day": 11,
+          "nameMs": "Hari Raya Aidiladha (Hari Kedua)",
+          "nameEn": "Eid al-Adha (Day 2)",
+          "states": [
+            "KDH",
+            "KTN",
+            "PLS",
+            "TRG"
+          ],
+          "md": "05-28",
+          "date": "2026-05-28",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "muharram",
+          "month": 1,
+          "day": 1,
+          "nameMs": "Awal Muharram",
+          "nameEn": "Islamic New Year",
+          "states": [
+            "ALL"
+          ],
+          "md": "06-17",
+          "date": "2026-06-17",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "maulid",
+          "month": 3,
+          "day": 12,
+          "nameMs": "Maulidur Rasul",
+          "nameEn": "Prophet Muhammad’s Birthday",
+          "states": [
+            "ALL"
+          ],
+          "md": "08-25",
+          "date": "2026-08-25",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "jhr-hol",
+          "month": 2,
+          "day": 6,
+          "nameMs": "Hari Hol Sultan Iskandar",
+          "nameEn": "Hari Hol of Sultan Iskandar",
+          "states": [
+            "JHR"
+          ],
+          "md": "07-21",
+          "date": "2026-07-21",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf",
+          "subjectToChange": true
+        },
+        {
+          "id": "agong",
+          "month": 6,
+          "weekday": 1,
+          "n": 1,
+          "nameMs": "Hari Keputeraan YDPA",
+          "nameEn": "Yang di-Pertuan Agong’s Birthday",
+          "states": [
+            "ALL"
+          ],
+          "md": "06-01",
+          "date": "2026-06-01",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "kdh",
+          "month": 6,
+          "weekday": 0,
+          "n": 3,
+          "nameMs": "Hari Keputeraan Sultan Kedah",
+          "nameEn": "Sultan of Kedah’s Birthday",
+          "states": [
+            "KDH"
+          ],
+          "md": "06-21",
+          "date": "2026-06-21",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "png",
+          "month": 7,
+          "weekday": 6,
+          "n": 2,
+          "nameMs": "Hari Jadi Yang di-Pertua Negeri Pulau Pinang",
+          "nameEn": "Penang Governor’s Birthday",
+          "states": [
+            "PNG"
+          ],
+          "md": "07-11",
+          "date": "2026-07-11",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "swk",
+          "month": 10,
+          "weekday": 6,
+          "n": 2,
+          "nameMs": "Hari Jadi Yang di-Pertua Negeri Sarawak",
+          "nameEn": "Sarawak Governor’s Birthday",
+          "states": [
+            "SWK"
+          ],
+          "md": "10-10",
+          "date": "2026-10-10",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        },
+        {
+          "id": "prk",
+          "month": 11,
+          "weekday": 5,
+          "n": 1,
+          "nameMs": "Hari Keputeraan Sultan Perak",
+          "nameEn": "Sultan of Perak’s Birthday",
+          "states": [
+            "PRK"
+          ],
+          "md": "11-06",
+          "date": "2026-11-06",
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/storage/2025/08/HKA-2026.pdf"
+        }
+      ],
+      "schoolHolidays": [
+        {
+          "range": "03-20/03-28",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school0",
+          "start": "2026-03-20",
+          "end": "2026-03-28",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "05-22/06-06",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school1",
+          "start": "2026-05-22",
+          "end": "2026-06-06",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "08-28/09-05",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school2",
+          "start": "2026-08-28",
+          "end": "2026-09-05",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "12-04/12-31",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school3",
+          "start": "2026-12-04",
+          "end": "2026-12-31",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "03-21/03-29",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school4",
+          "start": "2026-03-21",
+          "end": "2026-03-29",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "05-23/06-07",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school5",
+          "start": "2026-05-23",
+          "end": "2026-06-07",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "08-29/09-06",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school6",
+          "start": "2026-08-29",
+          "end": "2026-09-06",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "12-05/12-31",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school7",
+          "start": "2026-12-05",
+          "end": "2026-12-31",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "02-15/02-16",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school8",
+          "start": "2026-02-15",
+          "end": "2026-02-16",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "02-19/02-19",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school9",
+          "start": "2026-02-19",
+          "end": "2026-02-19",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "03-19/03-19",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school10",
+          "start": "2026-03-19",
+          "end": "2026-03-19",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "11-09/11-09",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "id": "school11",
+          "start": "2026-11-09",
+          "end": "2026-11-09",
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "02-16/02-16",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school12",
+          "start": "2026-02-16",
+          "end": "2026-02-16",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "02-19/02-20",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school13",
+          "start": "2026-02-19",
+          "end": "2026-02-20",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "03-19/03-20",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school14",
+          "start": "2026-03-19",
+          "end": "2026-03-20",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "11-10/11-10",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "id": "school15",
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "range": "11-09/11-09",
+          "group": "B",
+          "states": [
+            "SWK"
+          ],
+          "id": "school16",
+          "start": "2026-11-09",
+          "end": "2026-11-09",
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202026.pdf"
+        },
+        {
+          "id": "school-carry-A",
+          "start": "2026-01-01",
+          "end": "2026-01-10",
+          "group": "A",
+          "states": [
+            "KDH",
+            "KTN",
+            "TRG"
+          ],
+          "nameMs": "Cuti Sekolah · A",
+          "nameEn": "School Holiday · A",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202025_2026%20(Pindaan).pdf"
+        },
+        {
+          "id": "school-carry-B",
+          "start": "2026-01-01",
+          "end": "2026-01-11",
+          "group": "B",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SBH",
+            "SWK",
+            "SGR",
+            "KUL",
+            "LBN",
+            "PJY"
+          ],
+          "nameMs": "Cuti Sekolah · B",
+          "nameEn": "School Holiday · B",
+          "category": "school",
+          "official": true,
+          "source": "https://www.moe.gov.my/storage/files/shares/Takwim/Takwim%20Persekolahan/Kalendar%20Akademik%202025_2026%20(Pindaan).pdf"
+        }
+      ],
+      "specialEvents": [],
+      "replacementHolidays": [
+        {
+          "id": "wesak-replacement-2026",
+          "date": "2026-06-02",
+          "nameMs": "Cuti Ganti Hari Wesak",
+          "nameEn": "Wesak Replacement Holiday",
+          "states": [
+            "JHR",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PRK",
+            "PLS",
+            "PNG",
+            "SGR",
+            "KUL",
+            "PJY",
+            "LBN"
+          ],
+          "category": "public",
+          "official": true,
+          "source": "https://www.kabinet.gov.my/"
+        }
+      ]
+    }
+  }
+}

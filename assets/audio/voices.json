@@ -1,0 +1,27 @@
+{
+  "voices": {
+    "ms": "ms-MY-OsmanNeural",
+    "en": "en-GB-LibbyNeural",
+    "zh": "zh-CN-XiaoxiaoNeural",
+    "ta": "ta-MY-KaniNeural"
+  },
+  "rate": "-5%",
+  "clips": 1099,
+  "onlineClipRate": "+0%",
+  "dateClips": 732,
+  "monthPronunciationUpdate": {
+    "voice": "ms-MY-OsmanNeural",
+    "months": [
+      "Mei",
+      "September",
+      "Oktober",
+      "November",
+      "Disember"
+    ],
+    "recordings": 158,
+    "standaloneContext": "Bulan + nama bulan",
+    "rate": "+0%"
+  },
+  "multilingualRecordings": 1405,
+  "activeLibrary": "multilingual-audio.js"
+}
