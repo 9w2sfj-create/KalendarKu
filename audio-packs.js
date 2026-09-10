@@ -3,7 +3,7 @@ import {audioPackIndex} from './audio-pack-index.js';
 const packs=new Map();
 function loadPack(part){
  if(packs.has(part)){const cached=packs.get(part);packs.delete(part);packs.set(part,cached);return cached}
- const pending=fetch(new URL(`./assets/audio/pack-${String(part).padStart(2,'0')}.bin`,import.meta.url))
+ const pending=fetch(new URL(`./audio/pack-${String(part).padStart(2,'0')}.bin`,import.meta.url))
   .then(response=>{if(!response.ok)throw new Error('Audio pack unavailable');return response.arrayBuffer()})
   .catch(error=>{if(packs.get(part)===pending)packs.delete(part);throw error});
  packs.set(part,pending);
